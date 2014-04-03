@@ -1,0 +1,13 @@
+#spacedefense {
+    width: 100px;
+    height: 100px;
+    background: black;
+    position: relative;
+}
+
+.vessel {
+    position: absolute;
+    background: white;
+    width: 1px;
+    height: 1px;
+}
